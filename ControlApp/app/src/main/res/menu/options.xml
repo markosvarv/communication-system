@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/app_settings"
+        android:title="@string/app_settings"
+        app:showAsAction="never"/>
+    <item android:id="@+id/option_exit"
+        android:title="@string/option_exit"
+        app:showAsAction="never"/>
+
+    //edw kathe item apotelei epilogh sto options menu
+    //sthn periptwsh opou valoume show always, emfanizetai me eikonidio, dipla sto menu twn options!
+
+</menu>

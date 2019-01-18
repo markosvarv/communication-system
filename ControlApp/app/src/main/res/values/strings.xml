@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MQTT Client</string>
+    <string name="server_uri">Enter Server URI</string>
+    <string name="port">Port</string>
+    <string name="user">Username (Optional)</string>
+    <string name="password">Password (Optional)</string>
+    <string name="topic">Subscribe to Topic</string>
+    <string name="received_frequency">Frequency</string>
+    <string name="login_button">Login</string>
+    <string name="save_button">Save Settings</string>
+    <string name="delete_button">Reset Settings</string>
+    <string name="sound_button">Sound</string>
+    <string name="flash_button">Flash</string>
+    <string name="logout_button">Logout</string>
+    <string name="radio_group">QOS</string>
+    <string name="radio_button0">0</string>
+    <string name="radio_button1">1</string>
+    <string name="radio_button2">2</string>
+    <string name="app_settings">Settings</string>
+    <string name="option_exit">Exit</string>
+    <string name="background_msg">App is running in the background!</string>
+</resources>
